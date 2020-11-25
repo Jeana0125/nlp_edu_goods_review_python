@@ -1,5 +1,0 @@
-1.download tesseract
-https://github.com/tesseract-ocr/tesseract/wiki
-2.set Environment variable
-3.cmd tesseract
-4.find C:\Users\user\anaconda3\Lib\site-packages\pytesseract\pytesseract.py add tesseract_cmd="C:/Program Files/Tesseract-OCR/tesseract.exe"
