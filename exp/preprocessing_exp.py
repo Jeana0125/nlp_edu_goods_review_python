@@ -41,3 +41,4 @@ for item in encoded: # 각 문장에 대해서
 
 padded_np = np.array(encoded)
 print(padded_np)
+
