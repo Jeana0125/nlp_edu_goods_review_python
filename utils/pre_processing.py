@@ -10,8 +10,8 @@ from tensorflow.keras.utils import to_categorical
 #열 길이 설정
 pd.set_option("display.max_colwidth",200)
 # 파일 경로
-path = 'C:\\Users\\user\\Desktop\\edu\\reviews_.json'
-#path = 'D:\\reviews_.json'
+#path = 'C:\\Users\\user\\Desktop\\edu\\reviews_.json'
+path = 'D:\\reviews_.json'
 
 """
 파일 읽어오기
